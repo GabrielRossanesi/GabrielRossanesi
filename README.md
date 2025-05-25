@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @GabrielRossanesi
-- 👀 I’m interested in enter the job market
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on new project
-- 📫 How to reach me gabrielrossanesi@outlook.com
+👨‍💻 Sobre mim
+Olá! Sou Gabriel Costa Rossanesi, apaixonado por tecnologia, desenvolvimento e inovação. Tenho experiência na gestão de projetos, desenvolvimento de ferramentas web e automação de processos, especialmente voltados para a área da saúde.
 
-<!---
-GabrielRossanesi/GabrielRossanesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atualmente, me dedico a criar soluções que otimizam a rotina de empresas e profissionais, buscando sempre melhorar a eficiência e a organização dos processos. Curioso e em constante aprendizado, estou sempre em busca de novos desafios que me façam evoluir tanto pessoal quanto profissionalmente.
+
+💡 Interesses: Desenvolvimento web, automação, bancos de dados, UX/UI e soluções para gestão.
+🚀 Habilidades: JavaScript, TypeScript, React, Node.js, Python, SQL, Git, entre outras.
+🔭 Projetos atuais: Desenvolvimento de uma plataforma de gestão de escalas médicas.
+🎯 Objetivos: Aprofundar meus conhecimentos em desenvolvimento full stack, arquitetura de software e cloud computing.
